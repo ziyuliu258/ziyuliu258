@@ -96,9 +96,28 @@ git remote -v #列出当前remote的仓库信息
 git remote set-url skeleton https://github.com/ziyuliu258/myCS231n.git #初始化之后修改相关信息
 ```
 
+- 关于本地git通过ssh链接github时`time out`问题的解决方法：https://blog.csdn.net/the__future/article/details/130038818
+
+  ```bash
+  Host github.com
+  HostName ssh.github.com
+  User git
+  Port 22
+  PreferredAuthentications publickey
+  IdentityFile C:\Users\DELL\.ssh\id_ed25519
+  ```
+
+  设置如上，之后解决问题。其实有可能是网络问题，可能根本不用配置这个`config`文件。（还有一种可能是代理开了`IPv6`地址，而似乎ssh不太支持？）
+  
+- 中文乱码解决：https://www.cnblogs.com/sdlz/p/13023342.html
+
+  _（尚未解决）_
+
 #### 搭建网站相关（Hexo） ####
 
 - 新建标签
   - 前提是保证对应主题文件夹中的`_config.yml`中打开了标签功能。先用`hexo new page tag_name`创建标签页，然后在其中的`index.md`文件中加上`type: 'tags'`一行，标签创建完成。但此时还不能显示。
   - 将自己的一篇文章的`tags`设置成刚创建的值，然后运用相应命令重新生成，就可以在标签页看到对应的标签了。
 - 找背景图的好网站：https://commons.wikimedia.org/wiki/Main_Page
+
+- 设置音乐和电影页面：https://juejin.cn/post/7068673573581226021
