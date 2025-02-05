@@ -19,7 +19,7 @@ kill 1234
 kill -9 1234 # -9是强制中止
 ```
 
-#### 如何关闭在X Server的页面上打开的应用？ ####
+#### 如何关闭在X Server的页面上打开的应用？（也使用于其他Linux的进程） ####
 
 在命令行中输入：`Ctrl+C`，就可以回到命令行继续输入其他命令。
 
@@ -86,14 +86,19 @@ kill -9 1234 # -9是强制中止
   conda env remove -p /home/kuucoss/anaconda3/envs/tfpy36   #example
   ```
 
-- 查看某一容器的文件
+#### Git相关操作
 
-  - `ls -al /` 查看根目录文件
+- `git remote`相关操作
 
-    `ls -alR /` 递归查看所有文件（_可能会太多_）
+```
+git remote add origin https://github.com/ziyuliu258/myCS231n.git #初始化Origin与Skeleton仓库(前提远程要真的存在这个仓库！故先在github上建立repo)
+git remote -v #列出当前remote的仓库信息
+git remote set-url skeleton https://github.com/ziyuliu258/myCS231n.git #初始化之后修改相关信息
+```
 
-    `find / -name "*.py"` 查找特定文件
+#### 搭建网站相关（Hexo） ####
 
-    `tree /` 以层级结构显示（需要安装 `tree`）
-
-    **在宿主机使用 `docker exec` 也可以查看容器文件**
+- 新建标签
+  - 前提是保证对应主题文件夹中的`_config.yml`中打开了标签功能。先用`hexo new page tag_name`创建标签页，然后在其中的`index.md`文件中加上`type: 'tags'`一行，标签创建完成。但此时还不能显示。
+  - 将自己的一篇文章的`tags`设置成刚创建的值，然后运用相应命令重新生成，就可以在标签页看到对应的标签了。
+- 找背景图的好网站：https://commons.wikimedia.org/wiki/Main_Page
