@@ -2,13 +2,13 @@
 
 
 
-#### 编码问题——菱形方块乱码 ####
+#### 编码问题——菱形方块乱码
 
-用__UTF-8__打开__GBK__编码导致。在**Chrome**上安装_Set Character Encoding_插件后右键单击页面，改成用GBK即可解决。
+用**UTF-8**打开**GBK**编码导致。在**Chrome**上安装_Set Character Encoding_插件后右键单击页面，改成用GBK即可解决。
 
 ---
 
-#### 命令行操作 ####
+#### 命令行操作
 
 - 如何查看异常中断/无法中止的进程并强行退出？
 
@@ -27,9 +27,13 @@ kill -9 1234 # -9是强制中止
 
 在命令行中输入：`Ctrl+C`，就可以回到命令行继续输入其他命令。
 
+- 如何重命名文件？
+
+  https://blog.csdn.net/ljh574649119/article/details/136707979
+
 ---
 
-#### Docker相关 ####
+#### Docker相关
 
 - 创建Dockerfile
 
@@ -77,7 +81,7 @@ kill -9 1234 # -9是强制中止
 
 ---
 
-#### Conda相关操作 ####
+#### Conda相关操作
 
 - 删除某一环境
 
@@ -144,7 +148,7 @@ git remote set-url skeleton https://github.com/ziyuliu258/myCS231n.git #初始�
 
 ----
 
-#### 搭建网站相关（Hexo） ####
+#### 搭建网站相关（Hexo） 
 
 - 新建标签
   - 前提是保证对应主题文件夹中的`_config.yml`中打开了标签功能。先用`hexo new page tag_name`创建标签页，然后在其中的`index.md`文件中加上`type: 'tags'`一行，标签创建完成。但此时还不能显示。
@@ -154,7 +158,7 @@ git remote set-url skeleton https://github.com/ziyuliu258/myCS231n.git #初始�
 
 ----
 
-#### 设置网络 ####
+#### 设置网络 
 
 - ##### 关于Windows 11中的DNS设置（来自Epic官网）
 
