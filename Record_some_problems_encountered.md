@@ -149,6 +149,10 @@ git remote set-url skeleton https://github.com/ziyuliu258/myCS231n.git #初始�
 - 推送显示成功，但在github上不显示
 
   使用`git config --list`查看当前的邮件，如果和github账号中的设定email不同，则无法显示更新。
+  
+- 关于**Submodule**的问题
+
+  https://zhuanlan.zhihu.com/p/87053283
 
 ----
 
