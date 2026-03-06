@@ -12,6 +12,10 @@ I am currently learning CS in my junior year at XJTU. Welcome!
 ## Current Work
 I am current one of the TAs of [ICS](https://xjtu-ics.github.io) course of XJTU (Spring 26). 
 
+## Something You May Like
+- If you are a student of XJTU majoring in CS, you can search my repo [`myDocs`](https://github.com/ziyuliu258/myDocs) for some useful materials.
+- If you are interested in using Linux device, you can visit my blog (as well as Github Pages) and see part of my personalized settings.
+
 ## Know & Contact Me
 ### Email
 - `1209830516abc@gmail.com`
