@@ -27,8 +27,8 @@ You can visit my blog at:
 - [ziyuliu258.cn](https://ziyuliu258.cn)
 - [ziyuliu258.github.io](https://ziyuliu258.github.io)
 
-> **Latest Blog Posts**
-> <!-- BLOG-POST-LIST:START -->
+#### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
 - [Linux下修复三模客制化机械键盘F系列键的失灵](https://ziyuliu258.github.io/posts/38bfdd33/)
 - [Git分支操作：利用新分支备份状态，实现多分支版本管理](https://ziyuliu258.github.io/posts/d94c72e4/)
 - [XJTU-ICS Lab 2: Bomb Lab](https://ziyuliu258.github.io/posts/8eada4ef/)
