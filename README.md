@@ -27,6 +27,10 @@ You can visit my blog at:
 - [ziyuliu258.cn](https://ziyuliu258.cn)
 - [ziyuliu258.github.io](https://ziyuliu258.github.io)
 
+&nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyuliu258)
