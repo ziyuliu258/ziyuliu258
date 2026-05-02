@@ -28,3 +28,4 @@ You can visit my blog at:
 - [ziyuliu258.github.io](https://ziyuliu258.github.io)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyuliu258)
