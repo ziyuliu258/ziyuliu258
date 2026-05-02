@@ -29,6 +29,11 @@ You can visit my blog at:
 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Linux下修复三模客制化机械键盘F系列键的失灵](https://ziyuliu258.github.io/posts/38bfdd33/)
+- [Git分支操作：利用新分支备份状态，实现多分支版本管理](https://ziyuliu258.github.io/posts/d94c72e4/)
+- [XJTU-ICS Lab 2: Bomb Lab](https://ziyuliu258.github.io/posts/8eada4ef/)
+- [XJTU-ICS Lab 1: Data Lab](https://ziyuliu258.github.io/posts/e26699b7/)
+- [维护日志](https://ziyuliu258.github.io/posts/ffcd24f1/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258)
