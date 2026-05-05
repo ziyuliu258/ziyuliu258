@@ -35,7 +35,3 @@ You can visit my blog at:
 - [XJTU-ICS Lab 1: Data Lab](https://ziyuliu258.github.io/posts/e26699b7/)
 - [维护日志](https://ziyuliu258.github.io/posts/ffcd24f1/)
 <!-- BLOG-POST-LIST:END -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyuliu258)
