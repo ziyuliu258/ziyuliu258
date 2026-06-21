@@ -35,3 +35,7 @@ You can visit my blog at:
 - [Git分支操作：利用新分支备份状态，实现多分支版本管理](https://ziyuliu258.github.io/posts/d94c72e4/)
 - [XJTU-ICS Lab 2: Bomb Lab](https://ziyuliu258.github.io/posts/8eada4ef/)
 <!-- BLOG-POST-LIST:END -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyuliu258)
