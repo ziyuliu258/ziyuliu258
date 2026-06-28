@@ -9,8 +9,8 @@ I am currently a junior majoring in Computer Science at XJTU. Welcome!
 - Exploring the Mystery of Rust
 - Any Promising Project
 
-## 💼 Current Work
-- One of the TAs for the [ICS](https://xjtu-ics.github.io/sp-2026/staff/) course at XJTU (Spring 26). 
+## 💼 Roles
+- Undergraduate TA for the [ICS](https://xjtu-ics.github.io/sp-2026/staff/) course at XJTU (Spring 26).
 
 ## 💡 Something You May Like
 - 📚 If you are a student of XJTU majoring in CS, you can search my repo [`myDocs`](https://github.com/ziyuliu258/myDocs) for some useful materials.
