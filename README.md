@@ -13,7 +13,7 @@ I am currently a junior majoring in Computer Science at XJTU. Welcome!
 - Undergraduate TA for the [ICS](https://xjtu-ics.github.io/sp-2026/staff/) course at XJTU (Spring 26).
 
 ## 💡 Something You May Like
-- 📚 If you are a student of XJTU majoring in CS, you can search my repo [`myDocs`](https://github.com/ziyuliu258/myDocs) for some useful materials.
+- 📚 If you are a student of XJTU majoring in CS, you can search my repo [`MyDocs`](https://github.com/ziyuliu258/MyDocs) for some useful materials.
 - 🐧 If you are interested in Linux customization, you can visit my blog (GitHub Pages) and see some of my personalized setups.
 
 ## 📫 Contact Me
