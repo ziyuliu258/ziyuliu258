@@ -2,11 +2,13 @@
 I am currently a junior majoring in Computer Science at XJTU. Welcome!
 
 ## 🔭 My Interests
-- Deep Learning-based Time Series Forecasting
 - LLMs & MLLMs
+- 3D Vision, particularly 3D Facial Reconstruction/Modeling
+- Embodied AI
+- Deep Learning-based Time Series Forecasting
 - Building Elegant Workflows with AI Agents
 - Beautifying My Linux Desktop
-- Exploring the Mystery of Rust
+- Rust Programming and Systems Development
 - Any Promising Project
 
 ## 💼 Roles
@@ -36,6 +38,6 @@ You can visit my blog at:
 - [Git分支操作：利用新分支备份状态，实现多分支版本管理](https://ziyuliu258.github.io/posts/d94c72e4/)
 <!-- BLOG-POST-LIST:END -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyuliu258)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyuliu258) -->
