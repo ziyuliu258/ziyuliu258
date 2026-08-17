@@ -32,11 +32,11 @@ You can visit my blog at:
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [杨植麟的科研三招](https://ziyuliu258.github.io/posts/a2661911/)
 - [Arch Linux KDE Wayland 下腾讯会议屏幕共享黑屏修复](https://ziyuliu258.github.io/posts/fd1052a6/)
 - [论文阅读笔记更新计划](https://ziyuliu258.github.io/posts/df0c4c42/)
 - [PatchTST笔记](https://ziyuliu258.github.io/posts/fab21ae1/)
 - [Linux下修复三模客制化机械键盘F系列键的失灵](https://ziyuliu258.github.io/posts/38bfdd33/)
-- [Git分支操作：利用新分支备份状态，实现多分支版本管理](https://ziyuliu258.github.io/posts/d94c72e4/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258) -->
