@@ -32,11 +32,11 @@ You can visit my blog at:
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [转几个弯，重新再来——记我在西湖大学访问的一个月](https://ziyuliu258.github.io/posts/e3d0e307/)
 - [沙海拾珠：厉害的人如何做科研](https://ziyuliu258.github.io/posts/a398f5c/)
 - [杨植麟的科研三招](https://ziyuliu258.github.io/posts/a2661911/)
 - [Arch Linux KDE Wayland 下腾讯会议屏幕共享黑屏修复](https://ziyuliu258.github.io/posts/fd1052a6/)
 - [论文阅读笔记更新计划](https://ziyuliu258.github.io/posts/df0c4c42/)
-- [PatchTST笔记](https://ziyuliu258.github.io/posts/fab21ae1/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258) -->
