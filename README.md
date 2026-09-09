@@ -21,6 +21,8 @@ I am currently a junior majoring in Computer Science at XJTU. Welcome!
 
 ## 📫 Contact Me
 ### 📧 Email
+- `1209830516@qq.com`
+- `lzy1102@stu.xjtu.edu.cn`
 - `1209830516abc@gmail.com`
 - `ziyuliu258@163.com`
 - `ziyuliu258@outlook.com`
