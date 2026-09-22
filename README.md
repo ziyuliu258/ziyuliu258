@@ -1,19 +1,16 @@
 ## 🙋 About Me
-I am currently a junior majoring in Computer Science at XJTU. Welcome!
+I am currently a junior majoring in Computer Science at XJTU. And I will start my PhD career at Westlake University in fall 2027. Welcome!
 
 ## 🔭 My Interests
-- LLMs & MLLMs
-- 3D Vision, particularly 3D Facial Reconstruction/Modeling
-- Embodied AI
-- Deep Learning-based Time Series Forecasting
+- 3D Vision
 - Building Elegant Workflows with AI Agents
 - Beautifying My Linux Desktop
-- Rust Programming and Systems Development
 - Any Promising Project
 
 ## 💼 Roles
-- Undergraduate TA for the [ICS](https://xjtu-ics.github.io/sp-2026/staff/) course at XJTU (Spring 26).
-- Visiting Student at Westlake University (Summer 26)
+- Undergraduate TA for the [ICS](https://xjtu-ics.github.io/sp-2026/staff/) course at XJTU (Spring 2026).
+- Visiting Student at Westlake University (Summer 2026)
+- Incoming PhD Student at Westlake University, supervised by Prof. [Xiangru Huang](https://www.westlake.edu.cn/faculty/xiangru-huang.html). (Fall 2027)
 
 ## 💡 Something You May Like
 - 📚 If you are a student of XJTU majoring in CS, you can search my repo [`MyDocs`](https://github.com/ziyuliu258/MyDocs) for some useful materials.
