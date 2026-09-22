@@ -1,5 +1,5 @@
 ## 🙋 About Me
-I am currently a junior majoring in Computer Science at XJTU. And I will start my PhD career at Westlake University in fall 2027. Welcome!
+I am currently a junior majoring in Computer Science at XJTU. And I will start my PhD at Westlake University in fall 2027. Welcome!
 
 ## 🔭 My Interests
 - 3D Vision
