@@ -26,8 +26,8 @@ I am currently a final-year undergraduate majoring in computer science at **Xi�
 - `1209830516abc@gmail.com`
 - `ziyuliu258@163.com`
 
-### 🌐 Blog
-You can visit my blog at [ziyuliu258.cn](https://ziyuliu258.cn) or [ziyuliu258.github.io](https://ziyuliu258.github.io). 
+### 🌐 Personal Website
+You can visit my website at [ziyuliu258.cn](https://ziyuliu258.cn) or [ziyuliu258.github.io](https://ziyuliu258.github.io). 
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
