@@ -1,23 +1,25 @@
-## 🙋 About Me
-I am currently a final-year undergraduate majoring in computer science at Xi’an Jiaotong University (XJTU). I will begin my PhD studies at Westlake University in fall 2027. Welcome!
+## 🙋 Who Am I
+I am currently a final-year undergraduate majoring in computer science at **Xi’an Jiaotong University (XJTU)**. I will begin my PhD studies at **Westlake University** in fall 2027. Welcome!
 
-## 🔭 My Interests
-- 3D Vision
-- Building Elegant Workflows with AI Agents
-- Beautifying My Linux Desktop
-- Any Promising Project
+## 🔭 About Me
+- I enjoy following new developments in AI and computer science and exploring ways to integrate AI into my daily routines and workflows.
+- I love using Linux!
+- I am a big football fan and enjoy playing it too.
+- I have been playing the trombone for over ten years, and I also play the piano. Feel free to reach out if you would like to play music together!
+- I am always open to interesting projects and collaborations. I am currently seeking research opportunities in **3D vision** and **embodied intelligence**, particularly in developing better methods for **generating and editing 3D assets**.
 
 ## 💼 Academic Experience
+- Undergraduate at XJTU, majoring in computer science (Fall 2023 - Summer 2027)
 - Undergraduate Teaching Assistant for the [ICS](https://xjtu-ics.github.io/sp-2026/staff/) course at XJTU (Spring 2026)
 - Research Intern with Prof. [Ge Wang](https://gewangxjtu.github.io/) (Fall 2025 – Fall 2026)
-- Visiting Student in Prof. [Xiangru Huang](https://www.westlake.edu.cn/faculty/xiangru-huang.html)’s Laboratory at Westlake University (Apr 2026 – Present)
+- Visiting Student in Prof. [Xiangru Huang](https://www.westlake.edu.cn/faculty/xiangru-huang.html)’s laboratory at Westlake University (Apr 2026 – Present)
 - Incoming PhD Student at Westlake University with Prof. [Xiangru Huang](https://www.westlake.edu.cn/faculty/xiangru-huang.html) (starting Fall 2027)
 
 ## 💡 Something You May Like
-- 📚 If you are a student of XJTU majoring in CS, you can search my repo [`MyDocs`](https://github.com/ziyuliu258/MyDocs) for some useful materials.
-- 🐧 If you are interested in Linux customization, you can visit my blog (GitHub Pages) and see some of my personalized setups.
+- 📚 If you are a CS student at XJTU, you may find some useful materials in my [`MyDocs`](https://github.com/ziyuliu258/MyDocs) repository.
+- 🐧 If you are interested in Linux customization or AI research, feel free to visit my [blog](https://ziyuliu258.cn/blog/).
 
-## 📫 Contact Me
+## 📫 Know & Contact Me
 ### 📧 Email
 - `1209830516@qq.com`
 - `lzy1102@stu.xjtu.edu.cn`
@@ -25,9 +27,7 @@ I am currently a final-year undergraduate majoring in computer science at Xi’a
 - `ziyuliu258@163.com`
 
 ### 🌐 Blog
-You can visit my blog at:
-- [ziyuliu258.cn](https://ziyuliu258.cn)
-- [ziyuliu258.github.io](https://ziyuliu258.github.io)
+You can visit my blog at [ziyuliu258.cn](https://ziyuliu258.cn) or [ziyuliu258.github.io](https://ziyuliu258.github.io). 
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
