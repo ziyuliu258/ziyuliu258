@@ -1,5 +1,5 @@
 ## 🙋 About Me
-I am currently a final-year undergraduate at XJTU, majoring in Computer Science. And I will start my PhD at Westlake University in fall 2027. Welcome!
+I am currently a final-year undergraduate majoring in computer science at Xi’an Jiaotong University (XJTU). I will begin my PhD studies at Westlake University in fall 2027. Welcome!
 
 ## 🔭 My Interests
 - 3D Vision
