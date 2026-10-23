@@ -7,10 +7,11 @@ I am currently a final-year undergraduate majoring in computer science at Xi’a
 - Beautifying My Linux Desktop
 - Any Promising Project
 
-## 💼 Roles
-- Undergraduate TA for the [ICS](https://xjtu-ics.github.io/sp-2026/staff/) course at XJTU (Spring 2026).
-- Visiting Student at Westlake University (Summer 2026)
-- Incoming PhD Student at Westlake University, supervised by Prof. [Xiangru Huang](https://www.westlake.edu.cn/faculty/xiangru-huang.html). (Fall 2027)
+## 💼 Academic Experience
+- Undergraduate Teaching Assistant for the [ICS](https://xjtu-ics.github.io/sp-2026/staff/) course at XJTU (Spring 2026)
+- Research Intern with Prof. [Ge Wang](https://gewangxjtu.github.io/) (Fall 2025 – Fall 2026)
+- Visiting Student in Prof. [Xiangru Huang](https://www.westlake.edu.cn/faculty/xiangru-huang.html)’s Laboratory at Westlake University (Apr 2026 – Present)
+- Incoming PhD Student at Westlake University with Prof. [Xiangru Huang](https://www.westlake.edu.cn/faculty/xiangru-huang.html) (starting Fall 2027)
 
 ## 💡 Something You May Like
 - 📚 If you are a student of XJTU majoring in CS, you can search my repo [`MyDocs`](https://github.com/ziyuliu258/MyDocs) for some useful materials.
@@ -22,7 +23,6 @@ I am currently a final-year undergraduate majoring in computer science at Xi’a
 - `lzy1102@stu.xjtu.edu.cn`
 - `1209830516abc@gmail.com`
 - `ziyuliu258@163.com`
-- `ziyuliu258@outlook.com`
 
 ### 🌐 Blog
 You can visit my blog at:
