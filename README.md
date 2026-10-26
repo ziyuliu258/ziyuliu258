@@ -31,11 +31,11 @@ You can visit my website at [ziyuliu258.cn](https://ziyuliu258.cn) or [ziyuliu25
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [论文阅读：Denoising Diffusion Probabilistic Models](https://ziyuliu258.cn/blog/posts/a96313f0/)
+- [论文阅读：Scalable Diffusion Models with Transformers](https://ziyuliu258.cn/blog/posts/f097c2bc/)
 - [一个有关论文阅读和记录的工作方法设想](https://ziyuliu258.cn/blog/posts/68e9ee50/)
 - [论文阅读：Nexus](https://ziyuliu258.cn/blog/posts/50ab24e6/)
 - [转几个弯，重新再来——记我在西湖大学访问的一个月](https://ziyuliu258.cn/blog/posts/e3d0e307/)
-- [沙海拾珠：厉害的人如何做科研](https://ziyuliu258.cn/blog/posts/a398f5c/)
-- [杨植麟的科研三招](https://ziyuliu258.cn/blog/posts/a2661911/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258) -->
