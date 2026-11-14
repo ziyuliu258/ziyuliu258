@@ -31,11 +31,11 @@ You can visit my website at [ziyuliu258.cn](https://ziyuliu258.cn) or [ziyuliu25
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [转载：What are Diffusion Models?](https://ziyuliu258.cn/blog/posts/fc1ca6c3/)
+- [在手机上管理Hexo博客？](https://ziyuliu258.cn/blog/posts/9cefa3e8/)
 - [论文阅读：VIMA - General Robot Manipulation with Multimodal Prompts](https://ziyuliu258.cn/blog/posts/bfa59942/)
 - [论文阅读：$\pi_0$ - A Vision-Language-Action Flow Model for General Robot Control](https://ziyuliu258.cn/blog/posts/1f2c5742/)
 - [论文阅读：DAgger - A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://ziyuliu258.cn/blog/posts/f585d098/)
-- [论文阅读：UI-TARS - Pioneering Automated GUI Interaction with Native Agents](https://ziyuliu258.cn/blog/posts/2e949ae7/)
-- [论文阅读：What matters when building vision-language models?（Idefics2）](https://ziyuliu258.cn/blog/posts/beaebfcb/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258) -->
