@@ -31,11 +31,11 @@ You can visit my website at [ziyuliu258.cn](https://ziyuliu258.cn) or [ziyuliu25
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [论文阅读：NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://ziyuliu258.cn/blog/posts/ee17342c/)
+- [论文阅读：Spatial Foundry](https://ziyuliu258.cn/blog/posts/c537def8/)
+- [论文阅读：BlenderFORGE](https://ziyuliu258.cn/blog/posts/4318b9d/)
+- [论文阅读：VULCAN](https://ziyuliu258.cn/blog/posts/76521c01/)
+- [论文阅读：NeRF](https://ziyuliu258.cn/blog/posts/ee17342c/)
 - [论文阅读：3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://ziyuliu258.cn/blog/posts/c79a8e2/)
-- [论文阅读：VGGT: Visual Geometry Grounded Transformer](https://ziyuliu258.cn/blog/posts/6c23f67f/)
-- [转载：What are Diffusion Models?](https://ziyuliu258.cn/blog/posts/fc1ca6c3/)
-- [在手机上管理Hexo博客？](https://ziyuliu258.cn/blog/posts/9cefa3e8/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258) -->
