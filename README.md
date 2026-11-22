@@ -31,11 +31,11 @@ You can visit my website at [ziyuliu258.cn](https://ziyuliu258.cn) or [ziyuliu25
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [论文阅读：OV-PEAR](https://ziyuliu258.cn/blog/posts/7a994451/)
+- [论文阅读：Spatial-Interactor](https://ziyuliu258.cn/blog/posts/9b0b150/)
 - [论文阅读：Spatial Harness](https://ziyuliu258.cn/blog/posts/7e2bbf7c/)
 - [论文阅读：FoundationPose](https://ziyuliu258.cn/blog/posts/57f7e4a5/)
 - [论文阅读：VerifLM](https://ziyuliu258.cn/blog/posts/3ffc8c7f/)
-- [论文阅读：LeRF](https://ziyuliu258.cn/blog/posts/db8dcf90/)
-- [论文阅读：ScenePlacer](https://ziyuliu258.cn/blog/posts/9ca2403e/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyuliu258) -->
